@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I’m solo258
 
-<!--
-**solo258/solo258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate developer working on AI, web applications, and backend solutions.  
+Here are some of the main projects I’m working on and have starred recently:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### [level5-mission1-Cars-Image-AI-Classification](https://github.com/solo258/level5-mission1-Cars-Image-AI-Classification)
+![Repo stars](https://img.shields.io/github/stars/solo258/level5-mission1-Cars-Image-AI-Classification?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/level5-mission1-Cars-Image-AI-Classification)
+  
+A deep learning project for classifying car images. Uses computer vision techniques and neural networks to achieve accurate image classification.
+
+---
+
+### [Job-Ready-Interview-With-AI](https://github.com/solo258/Job-Ready-Interview-With-AI)
+![Repo stars](https://img.shields.io/github/stars/solo258/Job-Ready-Interview-With-AI?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/Job-Ready-Interview-With-AI)
+  
+An AI-powered platform that helps users prepare for job interviews with intelligent question generation and feedback.
+
+---
+
+### [Level5-Mission4---Containerized-Web-Application](https://github.com/solo258/Level5-Mission4---Containerized-Web-Application)
+![Repo stars](https://img.shields.io/github/stars/solo258/Level5-Mission4---Containerized-Web-Application?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/Level5-Mission4---Containerized-Web-Application)
+  
+A modern web application designed with containerization in mind (Docker, Kubernetes), focusing on scalability and deployment best practices.
+
+---
+
+### [Level5-Mission5-Phase1-MongoDB-CLI](https://github.com/solo258/Level5-Mission5-Phase1-MongoDB-CLI)
+![Repo stars](https://img.shields.io/github/stars/solo258/Level5-Mission5-Phase1-MongoDB-CLI?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/Level5-Mission5-Phase1-MongoDB-CLI)
+  
+A command-line interface tool to interact with MongoDB databases, built for speed and developer ergonomics.
+
+---
+
+## 📊 GitHub Stats
+
+![solo258's GitHub stats](https://github-readme-stats.vercel.app/api?username=solo258&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solo258&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Skills & Interests
+
+- AI/ML Engineering
+- Web Development (Frontend & Backend)
+- Cloud & Containerization (Docker, Kubernetes)
+- Database Management (MongoDB, SQL)
+
+---
+
+## 📫 Contact Me
+
+- Solomonel@missionreadyhq.com
+- https://www.linkedin.com/in/solomone-lamipeti-002651371/
