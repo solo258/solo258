@@ -48,10 +48,10 @@ A command-line interface tool to interact with MongoDB databases, built for spee
 
 ## 🛠️ Skills & Interests
 
-- AI/ML Engineering
 - Web Development (Frontend & Backend)
-- Cloud & Containerization (Docker, Kubernetes)
+- Cloud & Containerization (Docker, Azure)
 - Database Management (MongoDB, SQL)
+- AI/ML Engineering
 
 ---
 
