@@ -27,7 +27,7 @@ An AI-powered platform that helps users prepare for job interviews with intellig
 ![Repo stars](https://img.shields.io/github/stars/solo258/Level5-Mission4---Containerized-Web-Application?style=social)
 ![Languages](https://img.shields.io/github/languages/top/solo258/Level5-Mission4---Containerized-Web-Application)
   
-A modern web application designed with containerization in mind (Docker, Kubernetes), focusing on scalability and deployment best practices.
+A modern web application designed with containerization in mind (Docker), focusing on scalability and deployment best practices.
 
 ---
 
