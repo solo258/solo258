@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Solomone
 
 Welcome to my GitHub profile!  
-I’m a passionate developer working on AI, web applications, and backend solutions.  
+I’m a passionate developer working on AI, web applications, frontend and backend solutions.  
 Here are some of the main projects I’m working on and have starred recently:
 
 ---
