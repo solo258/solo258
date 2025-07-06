@@ -1,4 +1,4 @@
-# 👋 Hi, I’m solo258
+# 👋 Hi, I’m Solomone
 
 Welcome to my GitHub profile!  
 I’m a passionate developer working on AI, web applications, and backend solutions.  
