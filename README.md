@@ -7,7 +7,9 @@ I’m a passionate developer working on web applications, frontend and backend s
 
 ## 🚀 Featured Projects
 
-### Related projects / Demos
+### [Payload CMS using Next.js Demos](https://github.com/solo258/payload-next-demo)
+![Repo stars](https://img.shields.io/github/stars/solo258/payload-next-demo?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/payload-next-demo)
 
 - payload-next-demo — A demo repository showcasing how to integrate Payload CMS with Next.js.  
   Repository: https://github.com/solo258/payload-next-demo
