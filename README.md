@@ -11,7 +11,7 @@ I’m a passionate developer working on web applications, frontend and backend s
 ![Repo stars](https://img.shields.io/github/stars/solo258/payload-next-demo?style=social)
 ![Languages](https://img.shields.io/github/languages/top/solo258/payload-next-demo)
 
-- payload-next-demo — A demo repository showcasing how to integrate Payload CMS with Next.js.  
+- payload cms — A demo repository showcasing how to integrate Payload CMS with Next.js.  
   Repository: https://github.com/solo258/payload-next-demo
 
 ### [Trademe](https://github.com/solo258/Trademe)
