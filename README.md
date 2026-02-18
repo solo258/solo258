@@ -5,7 +5,13 @@ I’m a passionate developer working on web applications, frontend and backend s
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+### [Local service]
+![Repo stars](https://img.shields.io/github/stars/solo258/localService?style=social)
+![Languages](https://img.shields.io/github/languages/top/solo258/localService)
+
+A full-stack marketplace that connects clients with local service providers, featuring real-time chat, booking management, AI support and secure authentication.
 
 ### [Level5_mission5](https://github.com/solo258/Trademe)
 ![Repo stars](https://img.shields.io/github/stars/solo258/Trademe?style=social)
