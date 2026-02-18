@@ -7,7 +7,7 @@ I’m a passionate developer working on web applications, frontend and backend s
 
 ## Featured Projects
 
-### [Local service]
+### [localService](https://github.com/solo258/localService)
 ![Repo stars](https://img.shields.io/github/stars/solo258/localService?style=social)
 ![Languages](https://img.shields.io/github/languages/top/solo258/localService)
 
